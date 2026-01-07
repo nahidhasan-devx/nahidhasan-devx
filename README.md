@@ -33,10 +33,6 @@ I believe in **clean architecture**, **best coding practices**, and continuously
 - Developed a fintech app for a smooth transaction experience
 - Integrated mobile recharge and so one
 
-### 2. **Task Management System**
-- **Tech:** Node.js, Express.js, MongoDB, React
-- A full-stack web app for managing tasks with features like authentication, CRUD operations, and task categorization
-
 ### 3. **Alphacue Vet**
 - **Tech:** Flutter, Firebase, Firestore, JSON
 - Built a mobile app that allows real-time messaging with notifications, chat rooms, and private chats for taking personal care for animals.
