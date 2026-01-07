@@ -14,6 +14,7 @@ I believe in **clean architecture**, **best coding practices**, and continuously
 - Experienced in **end-to-end mobile app development** (both front-end & back-end)
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidhasan-devx&show_icons=true&theme=transparent)
 
 ## 🛠️ Tech Stack
 
