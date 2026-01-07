@@ -48,9 +48,8 @@ I believe in **clean architecture**, **best coding practices**, and continuously
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** <a href="https://linkedin.com/in/nahidhasan-devx" target="_blank">linkedin.com/in/nahidhasan-devx</a>
-- **Email:** <a href="mailto:nahid.diu.cse@gmail.com" target="_blank">nahid.diu.cse@gmail.com</a>
-- **GitHub:** <a href="https://github.com/nahidhasan-devx" target="_blank">github.com/nahidhasan-devx</a>
-
+- **LinkedIn:** [linkedin.com/in/nahidhasan-devx](https://linkedin.com/in/nahidhasan-devx) 
+- **Email:** [nahid.diu.cse@gmail.com](mailto:nahid.diu.cse@gmail.com) 
+- **GitHub:** [github.com/nahidhasan-devx](https://github.com/nahidhasan-devx)
 
 ---
