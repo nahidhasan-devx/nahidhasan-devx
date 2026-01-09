@@ -24,11 +24,11 @@ I believe in **clean architecture**, **best coding practices**, and continuously
 ## Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-%232F2F2F?style=flat-square&logo=api&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=white)  
 
 ## Version Control & Deployment
 ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black) 
 
 
 ---
