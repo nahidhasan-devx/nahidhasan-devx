@@ -33,19 +33,6 @@ I believe in **clean architecture**, **best coding practices**, and continuously
 
 ---
 
-## 🔨 Notable Projects
-
-### 1. **Q-Pay Mobile Application**
-- **Tech:** Flutter, Firebase, Stripe (for payments)
-- Developed a fintech app for a smooth transaction experience
-- Integrated mobile recharge and so one
-
-### 3. **Alphacue Vet**
-- **Tech:** Flutter, Firebase, Firestore, JSON
-- Built a mobile app that allows real-time messaging with notifications, chat rooms, and private chats for taking personal care for animals.
-
----
-
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/nahidhasan-devx](https://linkedin.com/in/nahidhasan-devx) 
